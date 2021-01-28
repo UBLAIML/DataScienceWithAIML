@@ -1,0 +1,4 @@
+#TOP Ten DataScience Tools
+print("Name of Top 10 Data Science tools:")
+tools = "1. TensorFlow\n 2. Apache Spark\n 3. MATLAB\n 4. Jupyter\n 5. Matplotlib\n 6. RapidMiner\n 7. Scikit-learn\n 8. Excel\n 9. BigML\n 10. DataRobot"
+print(tools)
